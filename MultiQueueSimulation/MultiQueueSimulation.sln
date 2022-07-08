@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiQueueSimulation", "MultiQueueSimulation\MultiQueueSimulation.csproj", "{DDFA5358-863E-412D-9664-910A4864BE94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiQueueModels", "MultiQueueModels\MultiQueueModels.csproj", "{EA31BE33-5807-4E11-8716-C5ED9C14B3BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDFA5358-863E-412D-9664-910A4864BE94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDFA5358-863E-412D-9664-910A4864BE94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDFA5358-863E-412D-9664-910A4864BE94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDFA5358-863E-412D-9664-910A4864BE94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA31BE33-5807-4E11-8716-C5ED9C14B3BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA31BE33-5807-4E11-8716-C5ED9C14B3BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA31BE33-5807-4E11-8716-C5ED9C14B3BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA31BE33-5807-4E11-8716-C5ED9C14B3BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31DAF999-D748-4C07-B30C-C3540C016BA9}
+	EndGlobalSection
+EndGlobal
